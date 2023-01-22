@@ -1,7 +1,7 @@
 import React from "react";
 import twitter from "../assets/twitter.svg"
 import facebook from "../assets/facebook.svg"
-import instagram from "../assets/instagram.svg"
+import instagram from "../assets/Instagram.svg"
 import github from "../assets/github.svg"
 
 export default function Footer()
